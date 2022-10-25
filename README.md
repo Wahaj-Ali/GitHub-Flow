@@ -21,7 +21,7 @@
 👤 **Wahaj**
 
 - GitHub: [@Wahaj-Ali](https://github.com/Wahaj-Ali)
-- Twitter: [@twitterhandle](https://twitter.com/Ali96Wahaj)
+- Twitter: [@Ali96Wahaj](https://twitter.com/Ali96Wahaj)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/wahaj-ali-82b9b1164)
 
 
