@@ -12,10 +12,6 @@
 
 
 
-## Getting Started
-
-
-
 ## Authors
 
 👤 **Wahaj**
