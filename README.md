@@ -12,7 +12,7 @@
 
 
 
-## Authors
+## Author(s)
 
 👤 **Wahaj**
 
